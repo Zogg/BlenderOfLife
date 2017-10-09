@@ -1,5 +1,5 @@
 {
-  "data_file": "/home/zogg/Zemeplytis/BlenderOfLife/golly-cells.json",
-  "blender_script": "/home/zogg/Zemeplytis/BlenderOfLife/render_cells.py",
-  "blender_output_file": "/home/zogg/test3.blend"
+  "data_file": "/absolute/path/to/BlenderOfLife/golly-cells.json",
+  "blender_script": "/absolute/path/to/BlenderOfLife/render_cells.py",
+  "blender_output_file": "/absolute/path/to/test.blend"
 }
