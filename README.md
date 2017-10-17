@@ -1,6 +1,8 @@
 # BlenderOfLife
 Script to render Golly's simulations into Blender file
 
+![BlenderOfLife](https://i.imgur.com/9DC1Ug8.png)
+
 # Prerequisites
 * [Golly](http://golly.sourceforge.net/)
 * [Blender](https://www.blender.org/)
