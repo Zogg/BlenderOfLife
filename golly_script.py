@@ -18,4 +18,4 @@ for gen in range(int(gen_nr)):
 with open(config['data_file'], "w") as f:
     json.dump(generations, f)
 
-subprocess.call(['optirun', 'blender', '-b', '-P', config['blender_script']])
+subprocess.call(['blender', '-b', '-P', config['blender_script']])
