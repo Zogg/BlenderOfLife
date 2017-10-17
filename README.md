@@ -2,9 +2,9 @@
 Script to render Golly's simulations into Blender file
 
 # Prerequisites
-[Golly](http://golly.sourceforge.net/)
-[Blender](https://www.blender.org/)
-Python 3.x.x
+* [Golly](http://golly.sourceforge.net/)
+* [Blender](https://www.blender.org/)
+* Python 3.x.x
 
 # Usage
 1) Clone this repo
